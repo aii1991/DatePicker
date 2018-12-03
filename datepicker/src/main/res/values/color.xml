@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_ccc">#cccccc</color>
+    <color name="bg_ebebeb">#ebebeb</color>
+
+    <color name="text_cccccc">#cccccc</color>
+    <color name="text_999">#999999</color>
+    <color name="text_39bbfb">#39bbfb</color>
+    <color name="text_333">#333333</color>
+</resources>

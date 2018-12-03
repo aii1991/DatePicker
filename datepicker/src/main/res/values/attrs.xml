@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YJMonthView">
+        <attr name="month_view_style" format="reference"/>
+        <attr name="header_space_height" format="dimension" />
+        <attr name="header_space_bg_color" format="color" />
+        <attr name="header_YM_font_size" format="dimension" />
+        <attr name="header_YM_font_color" format="color" />
+        <attr name="header_YM_height" format="dimension" />
+        <attr name="grid_line_width" format="dimension"/>
+        <attr name="grid_line_color" format="color"/>
+        <attr name="day_font_size" format="dimension"/>
+        <attr name="day_font_color" format="color"/>
+        <attr name="holiday_font_color" format="color"/>
+        <attr name="desc_font_size" format="dimension"/>
+        <attr name="desc_font_color" format="dimension"/>
+        <attr name="selected_day_font_color" format="color" />
+        <attr name="selected_desc_font_color" format="color" />
+        <attr name="selected_cell_bg_color" format="color" />
+        <attr name="cell_horizontal_space" format="dimension" />
+        <attr name="cell_vertical_space" format="dimension" />
+    </declare-styleable>
+</resources>
