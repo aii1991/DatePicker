@@ -2,7 +2,7 @@
 
 ## 效果图
 
-![DatePickerView.png](https://upload-images.jianshu.io/upload_images/2898841-c5e26a145b6d761c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![DatePickerView.png](https://github.com/aii1991/DatePicker/blob/master/screenshot/DatePickerView.png)
 
 ## 使用
 
